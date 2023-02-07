@@ -1,3 +1,3 @@
 # alx-zero_day
 alx-zero_day
-apple:, lemon:.
+:apple:, :lemon:.
